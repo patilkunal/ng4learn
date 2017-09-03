@@ -1,0 +1,20 @@
+{
+    "categories" : [{
+        "id": 1,
+        "name": "CSL",
+        "description": "CSL Services"
+    }, {
+        "id":2,
+        "name": "SAS",
+        "description": "SAS Services"
+    }],
+    "hosts": [
+        {
+            "id": 1,
+            "name": "CSL Server",
+            "hostname": "localhost",
+            "port": 8080,
+            "useSSL": "false"
+        }
+    ]
+}
